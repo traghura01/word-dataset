@@ -1,0 +1,12 @@
+word_dataset.txt contains text from two sources.
+
+Princeton WordNet supplies the noun, verb, adjective, and adverb lines.
+WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
+This dataset is redistributed under the WordNet license:
+https://wordnet.princeton.edu/license-and-commercial-use
+
+English Wiktionary, through the kaikki.org extracts, supplies the pronoun,
+determiner, article, conjunction, preposition, and particle lines.
+That text is available under the Creative Commons Attribution-ShareAlike
+License. Credit Wiktionary and kaikki.org, and share adaptations under the
+same license: https://creativecommons.org/licenses/by-sa/4.0/
